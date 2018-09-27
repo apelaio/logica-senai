@@ -1,12 +1,12 @@
 package aritimeticos;
 
-public class Soma {
-
+public class Subtracao {
 	public static void main(String[] args) {
 		int primeiroNumero = 10;
 		int segundoNumero = 5;
 		// TODO Auto-generated method stub
-		System.out.println(primeiroNumero + segundoNumero);
+		System.out.println(primeiroNumero - segundoNumero);
+	
 	}
-
 }
+
